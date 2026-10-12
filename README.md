@@ -133,6 +133,7 @@
 * [No Such Thing as a Free Lunch](https://slack.engineering/theres-no-such-thing-as-a-free-lunch/)
 * [Practice of Practice](https://github.com/maroda/practiceofpractice)
 * [Three Analytical Traps in Accident Investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
+* [The Infinite Hows](https://www.oreilly.com/radar/the-infinite-hows/)
 
 ### Papers
 
