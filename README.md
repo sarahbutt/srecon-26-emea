@@ -79,6 +79,7 @@
 ### Voice and Slack Transcripts
 * [Sarah and Alex Voice Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
 * [Incident Slack Transcript](Incident%20Slack%20Transcript.pdf)
+* [Business Comms Slack Transcript](Business_comm_alex_sarah.pdf)
 
 ### Chat Snippets
 * [Chat When Issue is Reported](OB_Chat_log_when_issue_is_reported.png)
