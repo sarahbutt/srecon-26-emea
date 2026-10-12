@@ -48,13 +48,12 @@
 ## Table of Contents
 * [Presenters](#presenters)
 * [Workshop Materials](#workshop-materials)
-  * [Transcripts](#transcripts)
+  * [Voice and Slack Transcripts](#voice-and-slack-transcripts)
   * [Chat Snippets](#chat-snippets)
   * [Grafana Screenshots](#grafana-screenshots)
   * [Other Resources](#other-resources)
 * [Resources](#resources)
-  * [Related SREcon26 Americas Conference Presentations](#related-srecon26-americas-conference-presentations)
-  * [Related SREcon26 Americas Conference Discussion Sessions](#related-srecon26-americas-conference-discussion-sessions)
+  * [Related SREcon26 EMEA Conference Sessions](#related-srecon26-emea-conference-sessions)
   * [Blog Posts](#blog-posts)
   * [Podcasts](#podcasts)
   * [Conference Talks](#conference-talks)
@@ -68,19 +67,18 @@
 * **Courtney Nash**, Co-founder/CEO, The Void | [LinkedIn](https://www.linkedin.com/in/nashcourtney/)
 * **Sarah Butt**, Principal Engineer, Salesforce | [LinkedIn](https://www.linkedin.com/in/sarahebutt/)
 * **Alex Elman**, Staff Engineer, Slack | [LinkedIn](https://www.linkedin.com/in/pkill/)
-* **Eric Dobbs**, Principal Incident Analyst, Oracle | [LinkedIn](https://www.linkedin.com/in/dobbse/)
+* **Eric Dobbs**, Principal Incident Analyst | [LinkedIn](https://www.linkedin.com/in/dobbse/)
 * **Hamed Silatani**, Co-founder/CEO, Uptime Labs | [LinkedIn](https://www.linkedin.com/in/hamed-silatani-a426538/)
 
 ---
 
 ## Workshop Materials
 
-* [Workshop Slide Deck](https://docs.google.com/presentation/d/1VcteO_rz6bj-Qx3_L8QiZhKmbQAm3jlgbKht93fIhno/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0)
+* Workshop Slide Deck (coming soon)
  
-### Transcripts
-* [(Group 1) Dylan and Clint Transcript](Dylan%20Clint%20Transcript%20SRECon.pdf)
-* [(Group 2) Sarah and Alex Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
-* [(Group 3) Vanessa and David Transcript](Vanessa%20David%20Transcript%20SRECon.pdf)
+### Voice and Slack Transcripts
+* [Sarah and Alex Voice Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
+* Incident Slack Transcript (coming soon)
 
 ### Chat Snippets
 * [Chat When Issue is Reported](OB_Chat_log_when_issue_is_reported.png)
@@ -102,18 +100,9 @@
 
 ## Resources
 
-### Related SREcon26 Americas Conference Presentations
+### Related SREcon26 EMEA Conference Sessions
 
-* [The Power of Stories](https://www.usenix.org/conference/srecon26americas/presentation/hochstein)
-* [Three Lies We Tell Ourselves about Disaster Recovery and What to Do about Them](https://www.usenix.org/conference/srecon26americas/presentation/alexander)
-* [The Critical Resource Is You: Practical Destressing for On-Call Engineers](https://www.usenix.org/conference/srecon26americas/presentation/long)
-* [So You Want a New Incident Commander—Lessons from Building Incident Response Teams](https://www.usenix.org/conference/srecon26americas/presentation/huerta-granda)
-
-### Related SREcon26 Americas Conference Discussion Sessions
-
-* [Learning in SRE](https://www.usenix.org/conference/srecon26americas/presentation/discussion-learning-sre)
-* [Wellbeing and Burnout](https://www.usenix.org/conference/srecon26americas/presentation/discussion-wellbeing-burnout)
-* [System Rescue: Restoring Operational Excellence](https://www.usenix.org/conference/srecon26americas/presentation/discussion-system-rescue)
+*Coming soon.*
 
 ### Blog Posts
 
@@ -148,4 +137,4 @@
 * [Understanding Cognitive Work](https://www.adaptivecapacitylabs.com/UnderstandingCognitiveWorkStagedWorlds.pdf)
 
 ### License
-<a href="https://sarahbutt.github.io/srecon-26-amer/">Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques—SREcon26 Americas Workshop Materials</a> © 2026 by Courtney Nash, Sarah Butt, Alex Elman, Eric Dobbs, Hamed Silatani is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://sarahbutt.github.io/srecon-26-emea/">Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques—SREcon26 EMEA Workshop Materials</a> © 2026 by Courtney Nash, Sarah Butt, Alex Elman, Eric Dobbs, Hamed Silatani is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
