@@ -78,7 +78,7 @@
  
 ### Voice and Slack Transcripts
 * [Sarah and Alex Voice Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
-* Incident Slack Transcript (coming soon)
+* [Incident Slack Transcript](Incident%20Slack%20Transcript.pdf)
 
 ### Chat Snippets
 * [Chat When Issue is Reported](OB_Chat_log_when_issue_is_reported.png)
@@ -102,7 +102,10 @@
 
 ### Related SREcon26 EMEA Conference Sessions
 
-*Coming soon.*
+* [Panel: The Anatomy of an Incident: Expert Perspectives from Response to Retrospective](https://www.usenix.org/conference/srecon26emea/presentation/panel-anatomy)
+* [Who Owns the Incident? The Hidden Costs of Centralized vs. Decentralized Incident Response](https://www.usenix.org/conference/srecon26emea/presentation/lebron)
+* [Incident Response & AI - The Hard Parts](https://www.usenix.org/conference/srecon26emea/presentation/allspaw)
+* [How We Troubleshoot Difficult Problems: Cognition and Understanding Causality in Distributed Software Systems](https://www.usenix.org/conference/srecon26emea/presentation/nolan)
 
 ### Blog Posts
 
@@ -120,6 +123,7 @@
 
 * [LFI Conference - Embracing the Multi-Party Dilemma](https://www.youtube.com/watch?v=Veq7VUbPwWo)
 * [LFI Conference - OREOS minus the milk: Deploying to the DoD in Staged Worlds Studies](https://www.youtube.com/watch?v=3SKxVyU0RmA)
+* [SREcon26 Americas - Staged World Exercises Workshop Materials](https://sarahbutt.github.io/srecon-26-amer/)
 
 ### General Resources
 
