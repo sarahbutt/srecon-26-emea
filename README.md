@@ -74,7 +74,7 @@
 
 ## Workshop Materials
 
-* Workshop Slide Deck (coming soon)
+* [Workshop Slide Deck](SRECon%20EMEA%202026%20Workshop.pdf)
  
 ### Voice and Slack Transcripts
 * [Sarah and Alex Voice Transcript](Sarah%20Alex%20transcript%20SRECon.pdf)
@@ -132,6 +132,7 @@
 * [Uptime Labs - Try a similar simulation to the one we discussed today!](https://uptimelabs.io/)
 * [No Such Thing as a Free Lunch](https://slack.engineering/theres-no-such-thing-as-a-free-lunch/)
 * [Practice of Practice](https://github.com/maroda/practiceofpractice)
+* [Three Analytical Traps in Accident Investigation](https://www.youtube.com/watch?v=TqaFT-0cY7U)
 
 ### Papers
 
